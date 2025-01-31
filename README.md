@@ -1,6 +1,6 @@
 # YOLO
 <div align="center">
-  <img src="yimg.png" width="60%" alt="Yolo" />
+  <img src="yolo_y.jpg" width="60%" alt="Yolo" />
 </div>
 <p align="center">
    <a href="https://pjreddie.com/darknet/yolo/"><b>Website</b>👁️</a>
